@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sagar</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
-<img align="center" alt="Coding"  src="https://camo.githubusercontent.com/34fa79a9cf1bbe4fa6e23c55b201047706574eeb222c360d9638f34788a130e7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78543949674735304662374d6930707242432f67697068792e676966">
+<img align="center" alt="Coding"  src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
 
 
 
