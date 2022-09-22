@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sagar</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
-<img align="center" alt="Coding"  src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
+<img align="center" alt="Coding"  src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif">
 
 
 
