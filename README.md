@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar</h1>
-<h3 align="center">A passionate MERN developer  and datageek from India</h3>
+<h3 align="center">A passionate data science entusiast and datageek from India</h3>
 <img align="center" alt="Coding"  src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
 
 
